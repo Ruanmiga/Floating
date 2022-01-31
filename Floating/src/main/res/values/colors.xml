@@ -1,0 +1,10 @@
+<resources>
+	
+	<color name="red">#FF3B30</color>
+	<color name="yellow">#FFCC00</color>
+	<color name="green">#34C759</color>
+	<color name="blue">#007AFF</color>
+	
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="normalColor">#353A3E</color>
+</resources>
